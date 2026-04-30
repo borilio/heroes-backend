@@ -369,6 +369,15 @@
       "active": true,
       "imageUrl": "",
       "universe": "Marvel"
+    },
+    {
+      "id": 35,
+      "name": "Doctor Strange",
+      "alterEgo": "Stephen Strange",
+      "power": 135,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
     }
   ]
 }
