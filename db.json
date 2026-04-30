@@ -332,51 +332,6 @@
       "active": false,
       "imageUrl": "",
       "universe": "DC"
-    },
-    {
-      "id": 31,
-      "name": "Flash Reverso",
-      "alterEgo": "Eobard Thawne",
-      "power": 120,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 32,
-      "name": "Deathstroke",
-      "alterEgo": "Slade Wilson",
-      "power": 95,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 33,
-      "name": "Bane",
-      "alterEgo": "Bane",
-      "power": 110,
-      "active": false,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 34,
-      "name": "Deadpool",
-      "alterEgo": "Wade Wilson",
-      "power": 95,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 35,
-      "name": "Doctor Strange",
-      "alterEgo": "Stephen Strange",
-      "power": 135,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
     }
   ]
 }
