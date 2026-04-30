@@ -468,51 +468,6 @@
       "active": false,
       "imageUrl": "",
       "universe": "Marvel"
-    },
-    {
-      "id": 46,
-      "name": "Rocket Raccoon",
-      "alterEgo": "Rocket",
-      "power": 85,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 47,
-      "name": "Gamora",
-      "alterEgo": "Gamora",
-      "power": 100,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 48,
-      "name": "Vision",
-      "alterEgo": "Vision",
-      "power": 125,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 49,
-      "name": "Black Panther",
-      "alterEgo": "T'Challa",
-      "power": 110,
-      "active": false,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 50,
-      "name": "Robin",
-      "alterEgo": "Dick Grayson",
-      "power": 70,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
     }
   ]
 }
