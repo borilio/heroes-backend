@@ -423,51 +423,6 @@
       "active": true,
       "imageUrl": "",
       "universe": "DC"
-    },
-    {
-      "id": 41,
-      "name": "Riddler",
-      "alterEgo": "Edward Nygma",
-      "power": 65,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 42,
-      "name": "Penguin",
-      "alterEgo": "Oswald Cobblepot",
-      "power": 70,
-      "active": false,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 43,
-      "name": "Kang el Conquistador",
-      "alterEgo": "Nathaniel Richards",
-      "power": 140,
-      "active": false,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 44,
-      "name": "Groot",
-      "alterEgo": "Groot",
-      "power": 90,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 45,
-      "name": "Star-Lord",
-      "alterEgo": "Peter Quill",
-      "power": 80,
-      "active": false,
-      "imageUrl": "",
-      "universe": "Marvel"
     }
   ]
 }
