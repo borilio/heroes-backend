@@ -1,0 +1,518 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Happy Hogan",
+      "email": "happy.hogan@starkindustries.com",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Nick Fury",
+      "email": "nick.fury@shield.gov",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Alfred Pennyworth",
+      "email": "alfred.pennyworth@wayneenterprises.com",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Lois Lane",
+      "email": "lois.lane@dailyplanet.com",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "James Rhodes",
+      "email": "rhodey@airforce.mil",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Maria Hill",
+      "email": "maria.hill@shield.gov",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Pepper Potts",
+      "email": "pepper.potts@starkindustries.com",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Clark Kent (Editor)",
+      "email": "clark.kent@dailyplanet.com",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Selina Kyle",
+      "email": "selina.kyle@gothammail.com",
+      "active": false
+    },
+    {
+      "id": 10,
+      "name": "Amanda Waller",
+      "email": "amanda.waller@argus.gov",
+      "active": true
+    }
+  ],
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker",
+      "power": 80,
+      "active": true,
+      "imageUrl": "img/avatars/spiderman.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne",
+      "power": 50,
+      "active": true,
+      "imageUrl": "img/avatars/batman.svg",
+      "universe": "DC"
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "alterEgo": "Bruce Banner",
+      "power": 150,
+      "active": true,
+      "imageUrl": "img/avatars/hulk.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark",
+      "power": 90,
+      "active": false,
+      "imageUrl": "img/avatars/ironman.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 5,
+      "name": "Capitán América",
+      "alterEgo": "Steve Rogers",
+      "power": 85,
+      "active": false,
+      "imageUrl": "img/avatars/capitanamerica.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 6,
+      "name": "Daredevil",
+      "alterEgo": "Matt Murdock",
+      "power": 70,
+      "active": true,
+      "imageUrl": "img/avatars/daredevil.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 7,
+      "name": "Lobezno",
+      "alterEgo": "Logan",
+      "power": 95,
+      "active": true,
+      "imageUrl": "img/avatars/lobezno.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 8,
+      "name": "Cíclope",
+      "alterEgo": "Scott Summers",
+      "power": 75,
+      "active": true,
+      "imageUrl": "img/avatars/ciclope.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 9,
+      "name": "Mr. Fantástico",
+      "alterEgo": "Reed Richards",
+      "power": 85,
+      "active": true,
+      "imageUrl": "img/avatars/mrfantastico.svg",
+      "universe": "Marvel"
+    },
+    {
+      "id": 10,
+      "name": "Linterna Verde",
+      "alterEgo": "Hal Jordan",
+      "power": 90,
+      "active": true,
+      "imageUrl": "img/avatars/linternaverde.svg",
+      "universe": "DC"
+    },
+    {
+      "id": 11,
+      "name": "Flash",
+      "alterEgo": "Barry Allen",
+      "power": 100,
+      "active": true,
+      "imageUrl": "img/avatars/flash.svg",
+      "universe": "DC"
+    },
+    {
+      "id": 12,
+      "name": "Superman",
+      "alterEgo": "Clark Kent",
+      "power": 150,
+      "active": true,
+      "imageUrl": "img/avatars/superman.svg",
+      "universe": "DC"
+    },
+    {
+      "id": 13,
+      "name": "Green Arrow",
+      "alterEgo": "Oliver Queen",
+      "power": 65,
+      "active": true,
+      "imageUrl": "img/avatars/arrow.svg",
+      "universe": "DC"
+    },
+
+    {
+      "id": 14,
+      "name": "Wonder Woman",
+      "alterEgo": "Diana Prince",
+      "power": 120,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 15,
+      "name": "Viuda Negra",
+      "alterEgo": "Natasha Romanoff",
+      "power": 70,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 16,
+      "name": "Bruja Escarlata",
+      "alterEgo": "Wanda Maximoff",
+      "power": 140,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 17,
+      "name": "Capitana Marvel",
+      "alterEgo": "Carol Danvers",
+      "power": 130,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 18,
+      "name": "Tormenta",
+      "alterEgo": "Ororo Munroe",
+      "power": 110,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 19,
+      "name": "Thanos",
+      "alterEgo": "Thanos",
+      "power": 150,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 20,
+      "name": "Loki",
+      "alterEgo": "Loki Laufeyson",
+      "power": 110,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 21,
+      "name": "Ultrón",
+      "alterEgo": "Ultrón",
+      "power": 120,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 22,
+      "name": "Duende Verde",
+      "alterEgo": "Norman Osborn",
+      "power": 95,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 23,
+      "name": "Doctor Muerte",
+      "alterEgo": "Victor Von Doom",
+      "power": 130,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 24,
+      "name": "Cráneo Rojo",
+      "alterEgo": "Johann Schmidt",
+      "power": 85,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 25,
+      "name": "Magneto",
+      "alterEgo": "Erik Lehnsherr",
+      "power": 140,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 26,
+      "name": "Venom",
+      "alterEgo": "Eddie Brock",
+      "power": 120,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 27,
+      "name": "Joker",
+      "alterEgo": "Desconocido",
+      "power": 70,
+      "active": false,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 28,
+      "name": "Harley Quinn",
+      "alterEgo": "Harleen Quinzel",
+      "power": 65,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 29,
+      "name": "Lex Luthor",
+      "alterEgo": "Lex Luthor",
+      "power": 90,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 30,
+      "name": "Darkseid",
+      "alterEgo": "Darkseid",
+      "power": 150,
+      "active": false,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 31,
+      "name": "Flash Reverso",
+      "alterEgo": "Eobard Thawne",
+      "power": 120,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 32,
+      "name": "Deathstroke",
+      "alterEgo": "Slade Wilson",
+      "power": 95,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 33,
+      "name": "Bane",
+      "alterEgo": "Bane",
+      "power": 110,
+      "active": false,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+
+    {
+      "id": 34,
+      "name": "Deadpool",
+      "alterEgo": "Wade Wilson",
+      "power": 95,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 35,
+      "name": "Doctor Strange",
+      "alterEgo": "Stephen Strange",
+      "power": 135,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 36,
+      "name": "Ant-Man",
+      "alterEgo": "Scott Lang",
+      "power": 75,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 37,
+      "name": "Hawkeye",
+      "alterEgo": "Clint Barton",
+      "power": 70,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 38,
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "power": 130,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 39,
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry",
+      "power": 115,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 40,
+      "name": "Catwoman",
+      "alterEgo": "Selina Kyle",
+      "power": 60,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 41,
+      "name": "Riddler",
+      "alterEgo": "Edward Nygma",
+      "power": 65,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 42,
+      "name": "Penguin",
+      "alterEgo": "Oswald Cobblepot",
+      "power": 70,
+      "active": false,
+      "imageUrl": "",
+      "universe": "DC"
+    },
+    {
+      "id": 43,
+      "name": "Kang el Conquistador",
+      "alterEgo": "Nathaniel Richards",
+      "power": 140,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 44,
+      "name": "Groot",
+      "alterEgo": "Groot",
+      "power": 90,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 45,
+      "name": "Star-Lord",
+      "alterEgo": "Peter Quill",
+      "power": 80,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 46,
+      "name": "Rocket Raccoon",
+      "alterEgo": "Rocket",
+      "power": 85,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 47,
+      "name": "Gamora",
+      "alterEgo": "Gamora",
+      "power": 100,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 48,
+      "name": "Vision",
+      "alterEgo": "Vision",
+      "power": 125,
+      "active": true,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 49,
+      "name": "Black Panther",
+      "alterEgo": "T'Challa",
+      "power": 110,
+      "active": false,
+      "imageUrl": "",
+      "universe": "Marvel"
+    },
+    {
+      "id": 50,
+      "name": "Robin",
+      "alterEgo": "Dick Grayson",
+      "power": 70,
+      "active": true,
+      "imageUrl": "",
+      "universe": "DC"
+    }
+  ]
+}
