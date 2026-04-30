@@ -323,15 +323,6 @@
       "active": true,
       "imageUrl": "",
       "universe": "DC"
-    },
-    {
-      "id": 30,
-      "name": "Darkseid",
-      "alterEgo": "Darkseid",
-      "power": 150,
-      "active": false,
-      "imageUrl": "",
-      "universe": "DC"
     }
   ]
 }
