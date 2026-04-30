@@ -369,60 +369,6 @@
       "active": true,
       "imageUrl": "",
       "universe": "Marvel"
-    },
-    {
-      "id": 35,
-      "name": "Doctor Strange",
-      "alterEgo": "Stephen Strange",
-      "power": 135,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 36,
-      "name": "Ant-Man",
-      "alterEgo": "Scott Lang",
-      "power": 75,
-      "active": true,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 37,
-      "name": "Hawkeye",
-      "alterEgo": "Clint Barton",
-      "power": 70,
-      "active": false,
-      "imageUrl": "",
-      "universe": "Marvel"
-    },
-    {
-      "id": 38,
-      "name": "Shazam",
-      "alterEgo": "Billy Batson",
-      "power": 130,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 39,
-      "name": "Aquaman",
-      "alterEgo": "Arthur Curry",
-      "power": 115,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
-    },
-    {
-      "id": 40,
-      "name": "Catwoman",
-      "alterEgo": "Selina Kyle",
-      "power": 60,
-      "active": true,
-      "imageUrl": "",
-      "universe": "DC"
     }
   ]
 }
