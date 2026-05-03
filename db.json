@@ -34,7 +34,7 @@
       "id": 6,
       "name": "Maria Hill",
       "email": "maria.hill@shield.gov",
-      "active": true
+      "active": false
     },
     {
       "id": 7,
